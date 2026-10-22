@@ -4,7 +4,7 @@ Basic Level Question - if, if-else
 """
 
 name= input("Enter your name: ")
-if name == 'admin' or 'Admin':
+if name.lower() == "admin":
     print("Welcome,",name,"#Admin!")
 else:
     print("Welcome,",name,"#User!")
