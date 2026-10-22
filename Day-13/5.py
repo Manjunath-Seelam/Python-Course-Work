@@ -1,5 +1,5 @@
 """
-Basic Level Question
+Basic Level Question - if, if-else
 5.    Take two numbers as input and print the greater number.
 """
 

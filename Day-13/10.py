@@ -1,5 +1,5 @@
 """
-Basic Level Question
+Basic Level Question - if, if-else
 10.Take a number input and print “Zero” if it is 0, otherwise print “Non-Zero”
 """
 

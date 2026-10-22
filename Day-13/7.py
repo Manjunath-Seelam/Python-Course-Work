@@ -1,5 +1,5 @@
 """
-Basic Level Question
+Basic Level Question - if, if-else
 7.    Take a number input and print whether it is divisible by 3 and 5.
 """
 

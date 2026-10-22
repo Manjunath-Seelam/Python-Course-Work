@@ -1,5 +1,5 @@
 """
-Basic Level Question
+Basic Level Question - if, if-else
 6.    Check if a given number is a multiple of 5 or not.
 """
 
