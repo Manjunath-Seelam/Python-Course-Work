@@ -15,4 +15,4 @@
 ## Questions and Exercises
 - Total questions: -
 - Completed: -
-- Pending: 0
+- Pending: -
