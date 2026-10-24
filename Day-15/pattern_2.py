@@ -1,4 +1,5 @@
 """
+Example Matrix
 *****
 *****
 *****
@@ -6,7 +7,7 @@
 *****
 """
 
-n=5
+n=10
 print ("FIRST ROW")# first row
 for i in range (n):
     for j in range (n):
@@ -76,6 +77,12 @@ for i in range (n):
             print('*', end=' ')
         else:
             print('.', end=' ')
+    print()
+print()
+print("TOTAL MATRIX") # Total Matrix
+for i in range(n):
+    for j in range(n):
+        print('*',end = ' ')
     print()
 print()
 print("END")
