@@ -1,4 +1,4 @@
-# Day-15 — Session Overview
+# Day-17 — Session Overview
 
 ## Session Details
 - **Session date:** 2026-10-29
@@ -6,14 +6,20 @@
 - **Day:** 17
 
 ## Topics Covered
-1. Basic Level Question - Nested-if/nested if-else conditional statement
+1. Conditional Statements
 
 ## Concepts Learned
-1. Nested-if
-2. Nested if-else
+1. If Statement
 
 
 ## Questions and Exercises
-- Total questions: - 3
-- Completed: - 3
-- Pending: - 0
+- Total questions: - 15
+- Completed: - 13
+- Pending: - 2
+
+## Doubts to Revisit
+- [ ] Doubt 1 - Question-5: To check perfect square (Tried to execute without importing math)
+- [ ] Doubt 2 - Question-6: TO check perfect cube (Unable to process the condition)
+
+## Reference Source
+- Resources/Python_Complete_Master_Practice_Sheet.md
