@@ -18,4 +18,4 @@
 
 
 ## Reference Source
-- Resources/9_Days_Assignment.md
+- Python-Course-Work/Resources/9_Days_Assignment.md
