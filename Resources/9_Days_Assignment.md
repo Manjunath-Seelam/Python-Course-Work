@@ -51,7 +51,7 @@ Concepts to Use:
 • Multiplication and addition 
 • Output formatting
 
-<!-- Page 2 -->
+<!-- Page 1 -->
 
 5. Employee Salary Calculator 
 Question: Write a Python program to collect employee ID, name, department and basic salary. Calculate HRA 

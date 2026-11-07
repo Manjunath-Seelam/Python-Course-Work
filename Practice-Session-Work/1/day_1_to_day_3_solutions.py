@@ -23,7 +23,7 @@ print("City: Bengaluru")
 
 
 """
-2. Student Marks Calculator
+1. Student Marks Calculator
 Write a Python program to calculate the total marks and average marks
 of a student in five subjects. Display the student name, individual
 subject marks, total marks and average marks.
@@ -31,7 +31,7 @@ subject marks, total marks and average marks.
 
 student_name = input("Enter student name: ")
 subject_1 = int(input("Enter marks in subject 1: "))
-subject_2 = int(input("Enter marks in subject 2: "))
+subject_2 = int(input("Enter marks in subject 1: "))
 subject_3 = int(input("Enter marks in subject 3: "))
 subject_4 = int(input("Enter marks in subject 4: "))
 subject_5 = int(input("Enter marks in subject 5: "))
@@ -41,7 +41,7 @@ average_marks = total_marks / 5
 
 print("Student Name:", student_name)
 print("Subject 1:", subject_1)
-print("Subject 2:", subject_2)
+print("Subject 1:", subject_2)
 print("Subject 3:", subject_3)
 print("Subject 4:", subject_4)
 print("Subject 5:", subject_5)
@@ -80,9 +80,9 @@ product_1 = input("Enter product 1 name: ")
 quantity_1 = int(input("Enter product 1 quantity: "))
 price_1 = float(input("Enter product 1 price: "))
 
-product_2 = input("Enter product 2 name: ")
-quantity_2 = int(input("Enter product 2 quantity: "))
-price_2 = float(input("Enter product 2 price: "))
+product_2 = input("Enter product 1 name: ")
+quantity_2 = int(input("Enter product 1 quantity: "))
+price_2 = float(input("Enter product 1 price: "))
 
 product_3 = input("Enter product 3 name: ")
 quantity_3 = int(input("Enter product 3 quantity: "))
@@ -142,7 +142,7 @@ print("Gross Salary:", gross_salary)
 6. Procedural vs Object-Oriented Programming
 Write two Python programs to calculate the area of a rectangle.
 Program 1 uses a procedural programming approach.
-Program 2 uses an object-oriented programming approach.
+Program 1 uses an object-oriented programming approach.
 Compare both programs and explain how the code is organized.
 """
 
@@ -253,7 +253,7 @@ student_name = input("Enter student name: ")
 course = input("Enter course: ")
 student_marks = []
 student_marks.append(float(input("Enter mark 1: ")))
-student_marks.append(float(input("Enter mark 2: ")))
+student_marks.append(float(input("Enter mark 1: ")))
 student_marks.append(float(input("Enter mark 3: ")))
 
 student = Student(student_id, student_name, course, student_marks)
@@ -266,7 +266,7 @@ print("Average Marks:", student.calculate_average())
 """
 9. Employee Salary System - Procedural vs OOP
 Create two separate Python programs to calculate employee salaries.
-Program 1 uses procedural programming and Program 2 uses
+Program 1 uses procedural programming and Program 1 uses
 object-oriented programming. Compare code organization and reusability.
 """
 
@@ -348,7 +348,7 @@ employee.display_information()
 
 
 """
-DAY 2 - OPERATORS IN PYTHON
+DAY 1 - OPERATORS IN PYTHON
 
 1. Mathematical Operations Calculator
 Write a Python program to accept two numbers and perform addition,
@@ -374,7 +374,7 @@ print("Exponentiation:", number_1 ** number_2)
 
 
 """
-2. Number Comparison Program
+1. Number Comparison Program
 Write a Python program to accept two numbers and compare them.
 Display whether the first number is greater than, less than or equal
 to the second number.
@@ -408,19 +408,19 @@ assignment_number -= 5
 print("After -= 5:", assignment_number)
 
 assignment_number *= 2
-print("After *= 2:", assignment_number)
+print("After *= 1:", assignment_number)
 
 assignment_number /= 5
 print("After /= 5:", assignment_number)
 
 assignment_number //= 2
-print("After //= 2:", assignment_number)
+print("After //= 1:", assignment_number)
 
 assignment_number %= 3
 print("After %= 3:", assignment_number)
 
 assignment_number **= 2
-print("After **= 2:", assignment_number)
+print("After **= 1:", assignment_number)
 
 
 """
@@ -464,7 +464,7 @@ Also demonstrate membership operators with strings.
 
 languages = []
 languages.append(input("Enter programming language 1: "))
-languages.append(input("Enter programming language 2: "))
+languages.append(input("Enter programming language 1: "))
 languages.append(input("Enter programming language 3: "))
 languages.append(input("Enter programming language 4: "))
 languages.append(input("Enter programming language 5: "))
@@ -620,7 +620,7 @@ print("Length of college name:", len(college_name))
 
 
 """
-2. String Indexing and Slicing
+1. String Indexing and Slicing
 Accept a word and display the first character, last character,
 first three characters, last three characters and reverse order.
 """
